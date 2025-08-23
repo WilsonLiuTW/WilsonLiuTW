@@ -1,5 +1,4 @@
-## Hi there 👋
-<img width="909" height="86" alt="image" src="https://github.com/user-attachments/assets/b4798814-8ad2-4648-a399-f739e15ae69f" />
+![GitHub Banner](./clint-patterson-dYEuFB8KQJk-unsplash.jpg)
 
 <!--
 **WilsonLiuTW/WilsonLiuTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
