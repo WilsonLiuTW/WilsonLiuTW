@@ -1,6 +1,7 @@
 ![GitHub Banner](./image.png)
----
+
 **This is Wilson**
+---
 I started my coding journey as an Information Technology student with a deep passion for exploring the programming world. From the very beginning, I was driven by curiosity and the desire to learn everything I could about building software, solving problems, and creating meaningful projects.
 
 💡 Over time, I’ve gained experience in areas such as:
@@ -14,6 +15,7 @@ Cloud Computing & Deployment
 Software Design & Data Science
 
 ✨ My goal is to keep growing as a developer, contributing to more projects, and applying my skills to create impactful solutions.
+
 ---
 ### 🧰 My Languages and Tools
 
