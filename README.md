@@ -1,6 +1,6 @@
 ![GitHub Banner](./image.png)
 
-**This is Wilson**
+**`Hi! This is Wilson ：）`**
 ---
 I started my coding journey as an Information Technology student with a deep passion for exploring the programming world. From the very beginning, I was driven by curiosity and the desire to learn everything I could about building software, solving problems, and creating meaningful projects.
 
