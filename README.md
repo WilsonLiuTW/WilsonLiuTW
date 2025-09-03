@@ -1,3 +1,3 @@
-![GitHub Banner](./clint-patterson-dYEuFB8KQJk-unsplash.jpg)
+![GitHub Banner](./image.png)
 
 Hi there!
