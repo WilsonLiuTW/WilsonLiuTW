@@ -16,8 +16,11 @@ Software Design & Data Science
 
 ✨ My goal is to keep growing as a developer, contributing to more projects, and applying my skills to create impactful solutions.
 
-## 🚀 Wetsite
-[View Live Site](https://wilsonnetwork.netlify.app)
+# Wilson Network - Portfolio Website
+
+🚧 **Status:** Currently in Development
+
+[View Development Site](https://wilsonnetwork.netlify.app)
 ---
 ### 🧰 My Languages and Tools
 
